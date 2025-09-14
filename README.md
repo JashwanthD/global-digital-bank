@@ -18,6 +18,3 @@ Supports **account creation, deposits, withdrawals, transfers, closures, reopeni
 | Bulk Operations       | Import accounts from CSV; delete all accounts with confirmation |
 
 ---
-
-## Project Structure
-
